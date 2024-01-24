@@ -105,7 +105,7 @@
   }
   
   .selected {
-    background-color: #ffd700; /* Highlight color for selected date */
+    background-color: #ffd700;
   }
   
   .days {
